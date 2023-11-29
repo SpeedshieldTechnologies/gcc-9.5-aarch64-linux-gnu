@@ -1,0 +1,7 @@
+/* Generated automatically. */
+static const char configuration_arguments[] = "/home/ahmed/workspace/crosstool-ng/.build/aarch64-linux-gnu/src/gcc/configure --build=x86_64-build_pc-linux-gnu --host=x86_64-build_pc-linux-gnu --target=aarch64-linux-gnu --prefix=/home/ahmed/workspace/x-tools/aarch64-linux-gnu --exec_prefix=/home/ahmed/workspace/x-tools/aarch64-linux-gnu --with-sysroot=/home/ahmed/workspace/x-tools/aarch64-linux-gnu/aarch64-linux-gnu/sysroot --enable-languages=c,c++,fortran,lto --with-cpu=cortex-a53 --with-pkgversion='crosstool-NG 1.26.0' --enable-__cxa_atexit --disable-libmudflap --enable-libgomp --disable-libssp --disable-libquadmath --disable-libquadmath-support --disable-libsanitizer --disable-libmpx --with-gmp=/home/ahmed/workspace/crosstool-ng/.build/aarch64-linux-gnu/buildtools --with-mpfr=/home/ahmed/workspace/crosstool-ng/.build/aarch64-linux-gnu/buildtools --with-mpc=/home/ahmed/workspace/crosstool-ng/.build/aarch64-linux-gnu/buildtools --with-isl=/home/ahmed/workspace/crosstool-ng/.build/aarch64-linux-gnu/buildtools --enable-lto --enable-threads=posix --enable-target-optspace --enable-plugin --enable-gold --disable-nls --disable-multilib --with-local-prefix=/home/ahmed/workspace/x-tools/aarch64-linux-gnu/aarch64-linux-gnu/sysroot --enable-long-long";
+static const char thread_model[] = "posix";
+
+static const struct {
+  const char *name, *value;
+} configure_default_options[] = { { "cpu", "cortex-a53" } };
